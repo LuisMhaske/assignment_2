@@ -1,0 +1,557 @@
+Assingment1 % git log
+commit 0da9f57c2b18b151507716535b56fd455da326d8 (HEAD -> master)
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:59:12 2023 +0100
+
+    Revert "changes made in Chorus_1.txt"
+    
+    This reverts commit 3c727dbab54919809dd33ea9649b0349616aab0f.
+
+commit 3c727dbab54919809dd33ea9649b0349616aab0f
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:49:06 2023 +0100
+
+    changes made in Chorus_1.txt
+
+commit 2cf64d2f3657ca8d657eae653fb6562cfcaae0ad
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:46:26 2023 +0100
+
+    Verse 4 seprated from song.txt file
+
+commit 6fb025f686d19759a8548675353ab020cee28fb4
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:46:14 2023 +0100
+
+    Verse 3 seprated from song.txt file
+
+commit 6c8f2251470ee3f8ae4bfba253646d2bf17b365d
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:45:46 2023 +0100
+
+    Verse 2 seprated from song.txt file
+
+commit b5aa4deaa1a67252fd23bcb6030bf57fb7d0acd4
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:45:33 2023 +0100
+
+    Verse 1 seprated from song.txt file
+
+commit c8a3309c0125476c30156f98ffc3a9fe491738e0
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:42:58 2023 +0100
+
+    Pre_chorus_2 created for similar Pre Chorus in the file song.txt
+
+commit 55f4a383280a5e0418be67f196cedd49f13da861
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:42:34 2023 +0100
+
+    Pre_chorus_1 created for similar Pre Chorus in the file song.txt
+
+commit 8ee722cdba467d5c5896d6cdcc3d5cc8e6559756
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:36:08 2023 +0100
+
+    Outro file created for the Outro lyrics from song.txt
+
+commit a0b6041633c3b08db523bb049a48c742e0404d8b
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:35:29 2023 +0100
+
+    .DS_Store file deleted(unwanetd file)
+
+commit 2fb7361b3820e8dc27437c9023b13604db95d3c3
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:34:12 2023 +0100
+
+    .DS file temp file
+
+commit eea64b85290b96150425546f313c61b01f642a9d
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:32:44 2023 +0100
+
+    Intro file created for the Intro lyrics from song.txt
+
+commit 855356bc4e05546fbe8dcfa04897f460f450db4c
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:31:16 2023 +0100
+
+    Chorus 2 file created for all the similar chorus in the lyric from song.txt
+
+commit f1e593086af765a8c1e34bd39109bac7c5f06932
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:30:35 2023 +0100
+
+    Chorus 1 file created for all the similar chorus in the lyric from song.txt
+
+commit 9fe4cdda227140b7306ab7652112fb8762eeb499
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:27:16 2023 +0100
+
+    Song Bridge lyrics sepreated
+
+commit c7aecca0c1676cd2fcc8d413a495b8316ca609ab
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 12:17:16 2023 +0100
+
+    Song Lyrics added
+(END)
+
+song.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p song.txt  
+commit 9fe4cdda227140b7306ab7652112fb8762eeb499
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:27:16 2023 +0100
+
+    Song Bridge lyrics sepreated
+
+diff --git a/song.txt b/song.txt
+index 8770069..caa22bf 100644
+--- a/song.txt
++++ b/song.txt
+@@ -1,61 +1,38 @@
+-I could stick around and get along with you
+-Hello, oh, oh, oh, oh
+-It doesn't really mean that I'm into you
+-Hello, oh, oh, oh, oh
+-
+-You're alright, but I'm here, darling, to enjoy the party
+-Don't get too excited cause that's all you get from me, hey
+-Yeah, I think you're cute, but really you should know
+-I just came to say hello
+-Hello
+-Hello
+-Hello, oh, oh, oh, oh
+-
+-I'm not the kinda girl to get messed up with you
+-Hello, oh, oh, oh, oh
+-I'ma let you try to convince me to
+-Hello, oh, oh, oh, oh
+-
+-It's alright I'm getting dizzy, just enjoy the party
+-It's okay with me if you don't have that much to say, hey
+-Kinda like this thing but there's something you should know
+-I just came to say hello
+-
+-Hey
+-
+-I could stick around and get along with you
+-Hello, oh, oh, oh, oh
+-Doesn't really mean that I'm into you
+-Hello, oh, oh, oh, oh
+-
+-You're alright, but I'm here, darling, to enjoy the party
+-Hey
+-You're alright, but I'm here, darling, to enjoy the party
+-Hey
+-You're alright, but I'm here, darling, to enjoy the party
+-Hey
+-You're alright, t but I'm here, darling, to enjoy the party
+-Hey
+-You're alright, but I'm here, darling, to enjoy the party
+-Hey
+-You're alright, but I'm here, darling, to enjoy the party
+-Hey
+-You're alright, but I'm here, darling, to enjoy the party
+-Hey
+-
+-I just came to say hello
+-Hello (hey, hey, hey, hey)
+-Hello (hey, hey, hey, hey)
+-Hello, oh, oh, oh, oh
+-
+-I'm not the kinda girl to get messed up with you
+-Hello, oh, oh, oh, oh
+-I'ma let you try to convince me to
+-Hello, oh, oh, oh, oh
+-
+-It's alright I'm getting dizzy, just enjoy the party
+-It's ok with me if you don't have that much to say, hey
+-Kinda like this thing, but there's something you should know
+-I just came to say hello
+-Hey
+-Hey
++[Intro.txt]^M
++^M
++^M
++[Verse_1.txt]^M
++^M
++^M
++[Pre_Chorus_1.txt]^M
++^M
++^M
++[Chorus_1.txt]^M
++^M
++[Verse_2.txt]^M
++^M
++[Pre_Chorus_2.txt]^M
++^M
++[Chorus_2.txt]^M
++
++Hey, hey^M
++^M
++[Verse_3.txt]^M
++^M
++^M
++[Bridge.txt]^M
++^M
++
++[Chorus_1.txt]^M
++^M
++^M
++[Verse_4.txt]^M
++^M
++^M
++[Pre_Chorus_2.txt]^M
++^M
++[Chorus_2.txt]^M
++^M
++^M
++[Outro.txt]^M
++
+
+commit c7aecca0c1676cd2fcc8d413a495b8316ca609ab
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 12:17:16 2023 +0100
+
+    Song Lyrics added
+
+diff --git a/song.txt b/song.txt
+new file mode 100644
+index 0000000..8770069
+--- /dev/null
++++ b/song.txt
+@@ -0,0 +1,61 @@
++I could stick around and get along with you
++Hello, oh, oh, oh, oh
++It doesn't really mean that I'm into you
++Hello, oh, oh, oh, oh
++
++You're alright, but I'm here, darling, to enjoy the party
++Don't get too excited cause that's all you get from me, hey
++Yeah, I think you're cute, but really you should know
++I just came to say hello
++Hello
++Hello
++Hello, oh, oh, oh, oh
++
++I'm not the kinda girl to get messed up with you
++Hello, oh, oh, oh, oh
++I'ma let you try to convince me to
++Hello, oh, oh, oh, oh
++
++It's alright I'm getting dizzy, just enjoy the party
++It's okay with me if you don't have that much to say, hey
++Kinda like this thing but there's something you should know
++I just came to say hello
++
++Hey
++
++I could stick around and get along with you
++Hello, oh, oh, oh, oh
++Doesn't really mean that I'm into you
++Hello, oh, oh, oh, oh
++
++You're alright, but I'm here, darling, to enjoy the party
++Hey
++You're alright, but I'm here, darling, to enjoy the party
++Hey
++You're alright, but I'm here, darling, to enjoy the party
++Hey
++You're alright, t but I'm here, darling, to enjoy the party
++Hey
++You're alright, but I'm here, darling, to enjoy the party
++Hey
++You're alright, but I'm here, darling, to enjoy the party
++Hey
++You're alright, but I'm here, darling, to enjoy the party
++Hey
++
++I just came to say hello
++Hello (hey, hey, hey, hey)
++Hello (hey, hey, hey, hey)
++Hello, oh, oh, oh, oh
++
++I'm not the kinda girl to get messed up with you
++Hello, oh, oh, oh, oh
++I'ma let you try to convince me to
++Hello, oh, oh, oh, oh
++
++It's alright I'm getting dizzy, just enjoy the party
++It's ok with me if you don't have that much to say, hey
++Kinda like this thing, but there's something you should know
++I just came to say hello
++Hey
++Hey
+(END)
+
+Bridge.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Bridge.txt 
+commit 9fe4cdda227140b7306ab7652112fb8762eeb499
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:27:16 2023 +0100
+
+    Song Bridge lyrics sepreated
+
+diff --git a/Bridge.txt b/Bridge.txt
+new file mode 100644
+index 0000000..c82cf84
+--- /dev/null
++++ b/Bridge.txt
+@@ -0,0 +1,11 @@
++Ah, you're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++You're alright, but I'm here, darling, to enjoy the party, hey^M
++(I'm here, darling, to enjoy the party, hey)^M
++(I'm here, darling, to enjoy the party, hey)^M
++(I'm here, darling, to enjoy the party, hey)
+\ No newline at end of file
+
+Chorus_1.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Chorus_1.txt 
+commit 0da9f57c2b18b151507716535b56fd455da326d8 (HEAD -> master)
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:59:12 2023 +0100
+
+    Revert "changes made in Chorus_1.txt"
+    
+    This reverts commit 3c727dbab54919809dd33ea9649b0349616aab0f.
+
+diff --git a/Chorus_1.txt b/Chorus_1.txt
+index 39690ae..12abc30 100644
+--- a/Chorus_1.txt
++++ b/Chorus_1.txt
+@@ -1 +1,2 @@
++I just came to say hello^M
+ Hello, hello, hello, oh-oh-oh
+\ No newline at end of file
+
+commit 3c727dbab54919809dd33ea9649b0349616aab0f
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:49:06 2023 +0100
+
+    changes made in Chorus_1.txt
+
+diff --git a/Chorus_1.txt b/Chorus_1.txt
+index 12abc30..39690ae 100644
+--- a/Chorus_1.txt
++++ b/Chorus_1.txt
+@@ -1,2 +1 @@
+-I just came to say hello
+ Hello, hello, hello, oh-oh-oh
+\ No newline at end of file
+
+commit f1e593086af765a8c1e34bd39109bac7c5f06932
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:30:35 2023 +0100
+
+    Chorus 1 file created for all the similar chorus in the lyric from song.txt
+
+diff --git a/Chorus_1.txt b/Chorus_1.txt
+new file mode 100644
+index 0000000..12abc30
+--- /dev/null
++++ b/Chorus_1.txt
+@@ -0,0 +1,2 @@
++I just came to say hello^M
++Hello, hello, hello, oh-oh-oh
+\ No newline at end of file
+
+Chorus_2.txt log
+
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Chorus_2.txt
+commit 855356bc4e05546fbe8dcfa04897f460f450db4c
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:31:16 2023 +0100
+
+    Chorus 2 file created for all the similar chorus in the lyric from song.txt
+
+diff --git a/Chorus_2.txt b/Chorus_2.txt
+new file mode 100644
+index 0000000..d7f6491
+--- /dev/null
++++ b/Chorus_2.txt
+@@ -0,0 +1 @@
++I just came to say hello^M
+
+
+Intro.txt log
+
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Intro.txt   
+commit eea64b85290b96150425546f313c61b01f642a9d
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:32:44 2023 +0100
+
+    Intro file created for the Intro lyrics from song.txt
+
+diff --git a/Intro.txt b/Intro.txt
+new file mode 100644
+index 0000000..e82d55a
+--- /dev/null
++++ b/Intro.txt
+@@ -0,0 +1,4 @@
++Hey^M
++Hey^M
++Hey^M
++Hey
+\ No newline at end of file
+
+
+Outro.txt log
+
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Outro.txt
+commit 8ee722cdba467d5c5896d6cdcc3d5cc8e6559756
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:36:08 2023 +0100
+
+    Outro file created for the Outro lyrics from song.txt
+
+diff --git a/Outro.txt b/Outro.txt
+new file mode 100644
+index 0000000..7601414
+--- /dev/null
++++ b/Outro.txt
+@@ -0,0 +1,2 @@
++Hey^M
++Hey
+\ No newline at end of file
+
+
+Pre_Chorus_1.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Pre_Chorus_1.txt 
+commit 55f4a383280a5e0418be67f196cedd49f13da861
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:42:34 2023 +0100
+
+    Pre_chorus_1 created for similar Pre Chorus in the file song.txt
+
+diff --git a/Pre_Chorus_1.txt b/Pre_Chorus_1.txt
+new file mode 100644
+index 0000000..ca161c4
+--- /dev/null
++++ b/Pre_Chorus_1.txt
+@@ -0,0 +1,3 @@
++You're alright, but I'm here, darling, to enjoy the party^M
++Don't get too excited 'cause that's all you'll get from me, hey^M
++Yeah, I think you're cute, but really you should know
+\ No newline at end of file
+
+Pre_Chorus_2.txt log
+
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Pre_Chorus_2.txt
+commit c8a3309c0125476c30156f98ffc3a9fe491738e0
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:42:58 2023 +0100
+
+    Pre_chorus_2 created for similar Pre Chorus in the file song.txt
+
+diff --git a/Pre_Chorus_2.txt b/Pre_Chorus_2.txt
+new file mode 100644
+index 0000000..a6d7a0a
+--- /dev/null
++++ b/Pre_Chorus_2.txt
+@@ -0,0 +1,3 @@
++Oh, it's alright, I'm getting dizzy, just enjoy the party^M
++It's okay with me if you don't have that much to say, hey^M
++Kinda like this game, but there's something you should know
+\ No newline at end of file
+
+Verse_1.txt log
+
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Verse_1.txt     
+commit b5aa4deaa1a67252fd23bcb6030bf57fb7d0acd4
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:45:33 2023 +0100
+
+    Verse 1 seprated from song.txt file
+
+diff --git a/Verse_1.txt b/Verse_1.txt
+new file mode 100644
+index 0000000..e7bb44e
+--- /dev/null
++++ b/Verse_1.txt
+@@ -0,0 +1,5 @@
++^M
++I could stick around and get along with you^M
++Hello, oh-oh-oh^M
++It doesn't really mean that I'm into you^M
++Hello, oh-oh-oh
+\ No newline at end of file
+
+Verse_2.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Verse_2.txt
+commit 6c8f2251470ee3f8ae4bfba253646d2bf17b365d
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:45:46 2023 +0100
+
+    Verse 2 seprated from song.txt file
+
+diff --git a/Verse_2.txt b/Verse_2.txt
+new file mode 100644
+index 0000000..a882efb
+--- /dev/null
++++ b/Verse_2.txt
+@@ -0,0 +1,4 @@
++I'm not the kinda girl to get messed up with you^M
++Hello, oh-oh-oh^M
++I'ma let you try to convince me to^M
++Hello, oh-oh-oh
+\ No newline at end of file
+
+Verse_3.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Verse_3.txt
+commit 6fb025f686d19759a8548675353ab020cee28fb4
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:46:14 2023 +0100
+
+    Verse 3 seprated from song.txt file
+
+diff --git a/Verse_3.txt b/Verse_3.txt
+new file mode 100644
+index 0000000..6e7e217
+--- /dev/null
++++ b/Verse_3.txt
+@@ -0,0 +1,4 @@
++I could stick around and get along with you^M
++Hello, oh-oh-oh^M
++Doesn't really mean that I'm into you^M
++Hello, oh-oh-oh
+\ No newline at end of file
+
+Verse_4.txt log
+
+luismhaske@Luiss-iMac Assingment1 % git log -p Verse_4.txt
+commit 2cf64d2f3657ca8d657eae653fb6562cfcaae0ad
+Author: Luis Mhaske <luismhaske@Luiss-iMac.local>
+Date:   Wed Aug 30 13:46:26 2023 +0100
+
+    Verse 4 seprated from song.txt file
+
+diff --git a/Verse_4.txt b/Verse_4.txt
+new file mode 100644
+index 0000000..a882efb
+--- /dev/null
++++ b/Verse_4.txt
+@@ -0,0 +1,4 @@
++I'm not the kinda girl to get messed up with you^M
++Hello, oh-oh-oh^M
++I'ma let you try to convince me to^M
++Hello, oh-oh-oh
+\ No newline at end of file
