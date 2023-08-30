@@ -1,61 +1,38 @@
-I could stick around and get along with you
-Hello, oh, oh, oh, oh
-It doesn't really mean that I'm into you
-Hello, oh, oh, oh, oh
+[Intro.txt]
 
-You're alright, but I'm here, darling, to enjoy the party
-Don't get too excited cause that's all you get from me, hey
-Yeah, I think you're cute, but really you should know
-I just came to say hello
-Hello
-Hello
-Hello, oh, oh, oh, oh
 
-I'm not the kinda girl to get messed up with you
-Hello, oh, oh, oh, oh
-I'ma let you try to convince me to
-Hello, oh, oh, oh, oh
+[Verse_1.txt]
 
-It's alright I'm getting dizzy, just enjoy the party
-It's okay with me if you don't have that much to say, hey
-Kinda like this thing but there's something you should know
-I just came to say hello
 
-Hey
+[Pre_Chorus_1.txt]
 
-I could stick around and get along with you
-Hello, oh, oh, oh, oh
-Doesn't really mean that I'm into you
-Hello, oh, oh, oh, oh
 
-You're alright, but I'm here, darling, to enjoy the party
-Hey
-You're alright, but I'm here, darling, to enjoy the party
-Hey
-You're alright, but I'm here, darling, to enjoy the party
-Hey
-You're alright, t but I'm here, darling, to enjoy the party
-Hey
-You're alright, but I'm here, darling, to enjoy the party
-Hey
-You're alright, but I'm here, darling, to enjoy the party
-Hey
-You're alright, but I'm here, darling, to enjoy the party
-Hey
+[Chorus_1.txt]
 
-I just came to say hello
-Hello (hey, hey, hey, hey)
-Hello (hey, hey, hey, hey)
-Hello, oh, oh, oh, oh
+[Verse_2.txt]
 
-I'm not the kinda girl to get messed up with you
-Hello, oh, oh, oh, oh
-I'ma let you try to convince me to
-Hello, oh, oh, oh, oh
+[Pre_Chorus_2.txt]
 
-It's alright I'm getting dizzy, just enjoy the party
-It's ok with me if you don't have that much to say, hey
-Kinda like this thing, but there's something you should know
-I just came to say hello
-Hey
-Hey
+[Chorus_2.txt]
+
+Hey, hey
+
+[Verse_3.txt]
+
+
+[Bridge.txt]
+
+
+[Chorus_1.txt]
+
+
+[Verse_4.txt]
+
+
+[Pre_Chorus_2.txt]
+
+[Chorus_2.txt]
+
+
+[Outro.txt]
+
